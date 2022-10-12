@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **cloud technologies**
 
-- 👯 I’m looking to collaborate on **differents backend solutions**
+- 👯 I’m looking to collaborate on **different bigdata and backend technologies**
 
-- 💬 Ask me about **Scala, Python and**
+- 💬 Ask me about **Python, Docker, Scala and Java**
 
 - 📫 How to reach me **arsenic69@outlook.com**
 
