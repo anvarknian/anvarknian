@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **cloud technologies**
 
-- 👯 I’m looking to collaborate on **different bigdata and backend technologies**
+- 👯 I’m looking to collaborate on **different Blockchain, Bigdata and Backend technologies**
 
 - 💬 Ask me about **Python, Docker, Scala and Java**
 
