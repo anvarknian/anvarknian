@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 align="center">Hi 👋, I'm Anwar Knyane</h1>
+<h1 align="">Hi 👋, I'm Anwar Knyane</h1>
 <h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
 
 - 🌱 I’m currently learning **cloud technologies**
