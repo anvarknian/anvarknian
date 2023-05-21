@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Docker, Scala and Java**
 
-- 📫 How to reach me **[Here](mailto:wetsuit-disuse0x@icloud.com)**
+- 📫 Reach me **[here](mailto:wetsuit-disuse0x@icloud.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
