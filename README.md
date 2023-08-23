@@ -32,7 +32,7 @@ target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/je
 
 <h3 align="left">Metrics:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvarknian" alt="anvarknian" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarknian&show_icons=true&locale=en&layout=compact" alt="anvarknian" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvarknian&show_icons=true&locale=en" alt="anvarknian" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvarknian&" alt="anvarknian" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvarknian" alt="anvarknian" /></a> </p><hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarknian&show_icons=true&locale=en&layout=compact" alt="anvarknian" /></p><hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anvarknian&show_icons=true&locale=en" alt="anvarknian" /></p><hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvarknian&" alt="anvarknian" /></p><hr>
