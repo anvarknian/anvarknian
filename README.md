@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-
-<header align="center">
-  <img src="https://komarev.com/ghpvc/?username=anvarknian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</header>
-
-<hr>
-
+  
 <section align="center">
   <h3>A passionate developer from Morocco 🇲🇦</h3>
   <p>
@@ -55,6 +49,10 @@ target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/je
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarknian&show_icons=true&locale=en&layout=compact" alt="Top Languages"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=anvarknian&show_icons=true&locale=en" alt="Stats"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvarknian&" alt="Streak">
+</section>
+<hr>
+<section align="center">
+  <img src="https://komarev.com/ghpvc/?username=anvarknian&label=Profile%20views&color=0e75b6&style=flat" alt="Github profile views">
 </section>
 
 </body>
