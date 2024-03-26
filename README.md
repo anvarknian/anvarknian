@@ -3,15 +3,7 @@
 <body>
   
 <section align="center">
-  <h3>A passionate developer from Morocco 🇲🇦</h3>
-  <p>
-    🌱 I’m currently learning <strong>cloud technologies</strong><br>
-    👯 I’m looking to collaborate on <strong>different Blockchain, Bigdata and Backend technologies</strong><br>
-    💬 Ask me about <strong>Python, Docker, Scala, and Java</strong>
-  </p>
-  <p>
-    📫 Reach me <a href="mailto:justdev.ak@outlook.com">here</a>
-  </p>
+  <h3>Commiting to different projects that I find interesting</h3>
 </section>
 
 <hr>
